@@ -1,5 +1,5 @@
 
-# CyberSafe - Cybersecurity Awareness Website
+# CyberSafe - Cybersecurity Awareness 
 
 ## About
 CyberSafe is a beginner-friendly website
